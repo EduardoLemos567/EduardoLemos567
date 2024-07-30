@@ -17,4 +17,4 @@
 Here's my codewards profile with some of my solutions:
 https://www.codewars.com/users/EduardoLemos567/completed_solutions
 
-### 📫 How to reach me: eduardolemos@id.uff.com
+### 📫 How to reach me: [Send me a message on linkedin](https://www.linkedin.com/in/eduardo-lemos-de-moraes-205b14249/)
