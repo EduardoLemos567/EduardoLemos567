@@ -2,10 +2,9 @@
 
 ### 👀 I’m currently interested in Game Development.
 
-### ⛰️ I’m currently learning:
-- Frameworks:  
-  - ASP.NET Core 7
-  - EF Core 7
+### ⛰️ I’m currently:
+- Developing my own game
+- Taking freelance works
 
 ### 🏝️ I’ve learned:
 - Game Engines: 
