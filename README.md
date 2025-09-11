@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Eduardo Lemos de Moraes
 
-### 👀 I’m currently interested in Game Development.
+### 👀 Interested in Game Development.
 
 ### ⛰️ I’m currently:
 - Developing my own game
 - Taking freelance works
 
-### 🏝️ I’ve learned:
+### 🏝️ Knowledge:
 - Game Engines: 
   - Unity
   - Godot
