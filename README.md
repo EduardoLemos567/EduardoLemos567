@@ -3,13 +3,13 @@
 ### 👀 Interested in Game Development.
 
 ### ⛰️ I’m currently:
-- Developing my own game
-- Taking freelance works
+- Developing my own game and practicing a lot of C#.
+- Taking freelance works.
 
 ### 🏝️ Knowledge:
-- Game Engines: 
-  - Unity
+- Game Engines:
   - Godot
+  - Unity
 - Languages:
   - C#
   - Python
